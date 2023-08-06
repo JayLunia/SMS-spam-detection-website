@@ -1,0 +1,12 @@
+.form-control{
+  background-color: transparent !important;
+  color:white !important;
+  outline:2px solid rgba(255, 255, 255, 0.5) !important ;
+  border: none !important;
+}
+
+.form-control:focus{
+  outline:2px solid rgba(255, 255, 255, 1) !important ;
+  box-shadow: none !important;
+  
+}
